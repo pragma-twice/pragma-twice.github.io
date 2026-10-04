@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Mirinae Toste's (Clayton Toste) Website"
-email: claytontoste@proton.me
+title: "Mirinae Toste's Website"
+email: mitoste@proton.me
 description: "" # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://clayton-toste.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  Clayton-Toste
+url: "https://pragma-twice.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  pragma-twice
 linkedin_username: mirinae-toste-59a3861b0
 
 # Build settings
