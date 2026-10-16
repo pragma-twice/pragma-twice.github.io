@@ -4,9 +4,14 @@ title: Education
 permalink: /education/
 ---
 
-<h2>University of Utah - Masters of Entertainment and Engineering </h2>
+<h2>University of Utah - Masters of Entertainment and Engineering - GPA: N/A </h2>
+<ul>
+  <li>GAMES6000 - Theories of Games&Play</li>
+  <li>GAMES6100 - Rapid Prototyping</li>
+  <li>GAMES6300 - C++ For Game Programming</li>
+</ul>
 
-<h2>UC Berkeley - BS in Computer Sciene- GPA: 3.953</h2>
+<h2>UC Berkeley - BS in Computer Science - GPA: 3.953</h2>
 <ul>
   <li>CS170 - Efficient Algorithms and Intractable Problems</li>
   <li>CS184	- Foundations of Computer Graphics</li>
